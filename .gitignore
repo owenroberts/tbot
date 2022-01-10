@@ -1,0 +1,10 @@
+.env
+.DS_Store
+__pycache__/
+blendy-test.psd
+*.png
+notes.txt
+*.jpg
+cred.py
+*.zip
+doc/
